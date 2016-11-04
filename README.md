@@ -1,2 +1,0 @@
-# gonchar
-my info
